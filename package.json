@@ -1,5 +1,5 @@
 {
-  "name": "jigsaw",
+  "name": "@carldu/jigsaw",
   "version": "1.0.3",
   "scripts": {
     "dev": "webpack-dev-server --config config/webpack.dev.js",
